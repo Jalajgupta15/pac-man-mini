@@ -1,6 +1,5 @@
 # Pac-Man Mini
 
-![Pac-Man Mini](![image](https://github.com/user-attachments/assets/aabee714-29e3-46ca-afbc-c7be9c647daa))
 
 A lightweight, browser-based Pac-Man game with smooth gameplay, modern styling, and responsive controls.
 
@@ -37,7 +36,9 @@ A lightweight, browser-based Pac-Man game with smooth gameplay, modern styling, 
 
 ## 📷 Screenshots
 
-> _Add your game screenshots here_
+![image](https://github.com/user-attachments/assets/360c8957-66b3-435c-a2aa-701f467b45ae)
+![image](https://github.com/user-attachments/assets/6ca24548-7841-4621-a3d3-1f11d8d013f3)
+![image](https://github.com/user-attachments/assets/5c4f2781-2823-4843-b0bd-ec3dd8ebd312)
 
 ---
 
