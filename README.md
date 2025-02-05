@@ -1,6 +1,6 @@
 # Pac-Man Mini
 
-![Pac-Man Mini](https://jalajgupta15.github.io/pac-man-mini/favicon.ico)
+![Pac-Man Mini](![image](https://github.com/user-attachments/assets/aabee714-29e3-46ca-afbc-c7be9c647daa))
 
 A lightweight, browser-based Pac-Man game with smooth gameplay, modern styling, and responsive controls.
 
